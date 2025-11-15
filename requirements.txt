@@ -1,0 +1,9 @@
+dashscope>=1.19.0
+qwen-agent>=0.0.12
+requests>=2.31.0
+sqlalchemy>=2.0.0
+pandas>=2.0.0
+matplotlib>=3.5.0
+numpy>=1.21.0
+grpcio>=1.48.0
+grpcio-tools>=1.48.0
